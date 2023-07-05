@@ -7,7 +7,6 @@ I am Python-backend developer.
 ------------------------------
 
 I have been coding for 2 years. 1.5 years in development. I started to learn HTML and CSS, and then switched to backend development. I am using Python, and it's frameworks: Django and FastAPI.
-Currently, I am also learning frontend-frameworks: VueJs, NuxtJs and DevOps basics.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -16,8 +15,7 @@ Currently, I am also learning frontend-frameworks: VueJs, NuxtJs and DevOps basi
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [imusk793@gmail.com](mailto:imusk793@gmail.com)
-* 🧠  I'm learning Rust and Typescript
-
+* 🧠  I'm learning Frontend framework: VueJs and NuxtJs. Additionaly, I am interested in perceiving Rust, and DevOps basics
 <br/>  
 
 
