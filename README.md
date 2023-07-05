@@ -13,8 +13,6 @@ I have been coding for 2 years. 1.5 years in development. I started to learn HTM
 </div>
 <img src="https://komarev.com/ghpvc/?username=nurali0709&style=flat-square&color=blue" alt=""/>
 
-I have been coding for 2 years. 1.5 years in development. I started to learn HTML and CSS, and then switched to backend development. I am using Python, and it's frameworks: Django and FastAPI
-
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [imusk793@gmail.com](mailto:imusk793@gmail.com)
 * 🧠  I'm learning Rust and Typescript
