@@ -90,3 +90,4 @@ I have been coding for 2 years. 1.5 years in development. I started to learn HTM
 
 <br/>  
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nurali0709&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
