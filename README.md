@@ -15,7 +15,7 @@ I have been coding for 2 years. 1.5 years in development. I started to learn HTM
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [imusk793@gmail.com](mailto:imusk793@gmail.com)
-* 🧠  I'm learning Frontend framework: VueJs and NuxtJs. Additionaly, I am interested in perceiving Rust, and DevOps basics
+* 🧠  I'm learning Frontend frameworks: VueJs and NuxtJs. Additionaly, I am interested in perceiving Rust, and DevOps basics
 <br/>  
 
 
