@@ -6,7 +6,7 @@
 I am Python-backend developer.
 ------------------------------
 
-I have been coding for 2 years. 1.5 years in development. I started to learn HTML and CSS, and then switched to backend development. I am using Python, and it's frameworks: Django and FastAPI.
+I have been coding for 2 years. 1.5 years in development. I started with Python, and then became perceiving JavaScript, Rust and etc. Mainly I am using Python, and it's frameworks: Django and FastAPI -for backend, and VueJs for frontend.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
