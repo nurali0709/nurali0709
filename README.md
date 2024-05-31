@@ -3,11 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 =======================
-I am Python-backend developer.
-------------------------------
-
-I have been coding for 2.5 years. 2 years in production. I started with Python, and then became perceiving JavaScript, Rust and etc. Mainly I am using Python, and it's frameworks: Django and FastAPI -for backend, and VueJs for frontend.
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
