@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [imusk793@gmail.com](mailto:imusk793@gmail.com)
-* 🧠  I'm learning Frontend frameworks: VueJs and NuxtJs. Additionaly, I am interested in perceiving Rust, and DevOps basics
+* 🧠  Eager to consume something new
 <br/>  
 
 
